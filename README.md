@@ -1,5 +1,5 @@
 # Line-follower-grid
-Grid based line follower designed for Praxis Project
+Grid based line follower designed for Praxis Project - November 2017 (uploaded in 2020)
 
 When traversing the grid the robot uses an array of IR sensors to detect the black lines on the white surface. The robot follows a straight path on the grid until it meets
 a region where all IR sensors register a single color. This means it has reached the end of the length of the grid. During this stage the robot proceeds to make a 90deg turn
